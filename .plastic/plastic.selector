@@ -1,0 +1,4 @@
+repository "BarrackUnitGame/BarrackUnitGame@14569588074434@cloud"
+  path "/"
+    br "/main"
+    co "/main"
